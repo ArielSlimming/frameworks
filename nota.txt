@@ -1,0 +1,19 @@
+*Todos los nombres de variables, clases y funciones en inglés.
+
+*Las clases que representen entidades de la base de datos, en mayúscula y con el mismo nombre de la tabla.
+
+*Si lleva dos o más palabras un nombre de variable, clase o función, se usa la nomenclatura de camello.
+
+*No se usan abreviaciones con excepción de las constantes.
+
+*Despues de cada sección lógica de código y después de cualquier estructura de control, se salta un espacio.
+
+*Las llaves se abren y cierran al margen que.
+
+*Todo código entre llaves se debe poner a partir de un 'tab' a la derecha incluyendo sus sub-llaves.
+
+*Constantes en mayúsculas y pueden ser abreviadas.
+
+*Código PHP sólo lleva etiqueta de apertura, a menos que se incluya dentro de html, donde también lleva cierre
+
+*Sólo usar comillas dobles para casos donde se necesite usar comillas dentro de otras comillas.Si se necesita incluir una variable en un string, concatenar.  
