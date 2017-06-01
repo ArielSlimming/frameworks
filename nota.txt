@@ -1,19 +1,21 @@
-*Todos los nombres de variables, clases y funciones en ingl閟.
+*Todos los nombres de variables, clases y funciones en ingl茅s.
 
-*Las clases que representen entidades de la base de datos, en may鷖cula y con el mismo nombre de la tabla.
+*Las clases que representen entidades de la base de datos, en may煤scula y con el mismo nombre de la tabla.
 
-*Si lleva dos o m醩 palabras un nombre de variable, clase o funci髇, se usa la nomenclatura de camello.
+*Si lleva dos o m谩s palabras un nombre de variable, clase o funci贸n, se usa la nomenclatura de camello.
 
-*No se usan abreviaciones con excepci髇 de las constantes.
+*No se usan abreviaciones con excepci贸n de las constantes.
 
-*Despues de cada secci髇 l骻ica de c骴igo y despu閟 de cualquier estructura de control, se salta un espacio.
+*Despues de cada secci贸n l贸gica de c贸digo y despu茅s de cualquier estructura de control, se salta un espacio.
 
 *Las llaves se abren y cierran al margen que.
 
-*Todo c骴igo entre llaves se debe poner a partir de un 'tab' a la derecha incluyendo sus sub-llaves.
+*Todo c贸digo entre llaves se debe poner a partir de un 'tab' a la derecha incluyendo sus sub-llaves.
 
-*Constantes en may鷖culas y pueden ser abreviadas.
+*Constantes en may煤sculas y pueden ser abreviadas.
 
-*C骴igo PHP s髄o lleva etiqueta de apertura, a menos que se incluya dentro de html, donde tambi閚 lleva cierre
+*C贸digo PHP s贸lo lleva etiqueta de apertura, a menos que se incluya dentro de html, donde tambi茅n lleva cierre
 
-*S髄o usar comillas dobles para casos donde se necesite usar comillas dentro de otras comillas.Si se necesita incluir una variable en un string, concatenar.  
+*S贸lo usar comillas dobles para casos donde se necesite usar comillas dentro de otras comillas.Si se necesita incluir una variable en un string, concatenar.  
+
+estoy editando
